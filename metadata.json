@@ -1,0 +1,8 @@
+{
+  "name": "Haru Intelligent Banking",
+  "description": "A voice-first, intelligent banking prototype featuring Haru, the AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
